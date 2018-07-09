@@ -1,2 +1,3 @@
 # JavaPrograms
-My Java Programs
+My first Java Programs.
+These are my daily practice programs.
