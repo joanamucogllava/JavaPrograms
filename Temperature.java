@@ -4,10 +4,6 @@
  */
 package temperature;
 
-/**
- *
- * @author mucog
- */
 public class Temperature {
 
     /**
