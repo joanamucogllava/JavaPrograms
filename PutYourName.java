@@ -1,14 +1,11 @@
 /*
+Author: Joana Mucogllava
 This program will ask you for your name and it will greet you after that. 
  */
 package putyourname;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Joana Mucogllava
- */
 public class PutYourName {
 
     /**
