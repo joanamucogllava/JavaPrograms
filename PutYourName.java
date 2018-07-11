@@ -1,7 +1,5 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+This program will ask you for your name and it will greet you after that. 
  */
 package putyourname;
 
@@ -9,7 +7,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author mucog
+ * @author Joana Mucogllava
  */
 public class PutYourName {
 
