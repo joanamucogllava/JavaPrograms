@@ -1,7 +1,5 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+This Program will ask you to enter a temperature degree and will tell you if the water is boiling or not.
  */
 package boiling;
 
@@ -9,7 +7,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author mucog
+ * @author Joana Mucogllava
  */
 public class Boiling {
 
