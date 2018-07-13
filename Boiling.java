@@ -1,14 +1,11 @@
 /*
 This Program will ask you to enter a temperature degree and will tell you if the water is boiling or not.
+Author: Joana Mucogllava
  */
 package boiling;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Joana Mucogllava
- */
 public class Boiling {
 
     /**
