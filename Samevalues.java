@@ -7,7 +7,7 @@ package samevalues;
 import java.util.Scanner;
 /**
  *
- * @author joana
+ * @author Joana Mucogllava
  */
 public class Samevalues {
 
