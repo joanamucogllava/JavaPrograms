@@ -3,7 +3,7 @@ package billsncoins;
 import java.util.Scanner;
 
 /*
-  
+  This program is going to ask you to put an amopunt and is going to convert in different bills and coins.
  */
 public class Billsncoins {
 	public static void main(String args[]){
