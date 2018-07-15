@@ -2,9 +2,7 @@ package billsncoins;
 /*@author joana*/
 import java.util.Scanner;
 
-/*This program reads a double valued monetary amount. 
- * It determine the fewest number of each bill and coin needed to represent
- *  that amount, starting with the highest.
+/*
   
  */
 public class Billsncoins {
@@ -17,7 +15,7 @@ public class Billsncoins {
 	System.out.println("Please enter the amount:");
 	price= s.nextDouble();
 	
-	 twenty= (int)price/20;	
+	twenty= (int)price/20;	
 	price=price%20;
 	ten= (int)price/10;
 	price=price%10;
