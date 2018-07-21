@@ -1,8 +1,7 @@
 
 
 /**
- *
- * @author mucog
+ * @author Joana Mucogllava
  */
 public class Replace {
 
