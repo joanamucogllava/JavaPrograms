@@ -1,6 +1,7 @@
 
 
 /**
+ * This program is going to replace the two given numbers.
  * @author Joana Mucogllava
  */
 public class Replace {
