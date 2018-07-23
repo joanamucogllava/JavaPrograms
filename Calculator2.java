@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author mucog
+ * @author Joana Mucogllava
  */
 public class Calculator2 {
 
