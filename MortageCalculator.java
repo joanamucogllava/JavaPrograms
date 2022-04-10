@@ -1,3 +1,5 @@
+//This program is a mortage calculator. It is for personal development.
+
 import java.awt.*;
 import java.text.NumberFormat;
 import java.util.Arrays;
